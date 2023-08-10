@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9dd3b58174318948adf9f2a8bfa0fa9, type: 3}
+  m_Name: Generic Button Data Container
+  m_EditorClassIdentifier: 
+  activeBG: {fileID: 21300000, guid: 051b0c0bb499ea44ba07ab8d9e3a8d22, type: 3}
+  activeBorder: {fileID: 21300000, guid: df695b414a1b5a54cbe82f5dd58294b6, type: 3}
+  activeLineBreak: {fileID: 21300000, guid: 8b2b7ab3c6ed2d74195900b94e67874a, type: 3}
+  inactiveBG: {fileID: 21300000, guid: a2185ac856d956046964faf8fb14270a, type: 3}
+  inactiveBorder: {fileID: 21300000, guid: 1e6b03d03fa4bd64c973cb94148737b3, type: 3}
+  inactiveLineBreak: {fileID: 21300000, guid: 65abf4bdb97538d49bfc4ee5787aa24c, type: 3}

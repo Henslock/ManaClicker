@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a95d357446dda5a409bcbac72fc59277, type: 3}
+  m_Name: UpgradeNodeData
+  m_EditorClassIdentifier: 
+  minorNodeActiveSprite: {fileID: 21300000, guid: 5bcdd4bd94a6eef4c949b02a0b59db6d, type: 3}
+  minorNodePurchasedSprite: {fileID: 21300000, guid: bcca82a9b3d8c27449be8c78c0017238, type: 3}
+  minorNodeInactiveSprite: {fileID: 21300000, guid: dadcb418937e85844a0903e22c57958d, type: 3}
+  majorNodeActiveSprite: {fileID: 21300000, guid: 871b8f3d1fdb4dd4f81b6413142d3282, type: 3}
+  majorNodePurchasedSprite: {fileID: 21300000, guid: e801b4d277e56a149be1409211cc83c1, type: 3}
+  majorNodeInactiveSprite: {fileID: 21300000, guid: f5286e13e2b4b334893970d4c0fc4597, type: 3}
+  majorNodeCelebratoryParticles: {fileID: 4324799420414103190, guid: ed2f83599f66c1d419d0b946d3c1bb68, type: 3}
+  minorNodeCelebratoryParticles: {fileID: 6607451136558182329, guid: 8cceffcb6bd48644daa7e8a9bc8d4449, type: 3}
+  majorNodeSparkle: {fileID: 8156580233203324980, guid: 435da531ee2f98e48a69f00b28d00727, type: 3}
+  minorNodeSparkle: {fileID: 1014404727665676070, guid: a86021819614973439190cd342565eba, type: 3}

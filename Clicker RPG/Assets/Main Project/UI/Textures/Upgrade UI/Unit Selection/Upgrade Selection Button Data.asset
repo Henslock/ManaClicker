@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d19d1dc91824ed6498c44614a9da2b36, type: 3}
+  m_Name: Upgrade Selection Button Data
+  m_EditorClassIdentifier: 
+  InactiveFlair: {fileID: 21300000, guid: 8c8d19350a2b7d4479ee4837ab34d52f, type: 3}
+  InactiveBackground: {fileID: 21300000, guid: 9f0468472e504574a9c4b3f9d3426a72, type: 3}
+  InactiveSmallBackground: {fileID: 21300000, guid: d195274b29e9a8a4a9eddb63f83ae6c5, type: 3}
+  InactiveBorder: {fileID: 21300000, guid: 56ed3e5c10a94724a817cfae7743df68, type: 3}
+  ActiveFlair: {fileID: 21300000, guid: 3896149f6824de7498d2480656b4e98f, type: 3}
+  ActiveBackground: {fileID: 21300000, guid: af62a6f58c07beb4980bb53bc775c97e, type: 3}
+  ActiveSmallBackground: {fileID: 21300000, guid: 9c5e5e74d1aaf3f4e9760acd71ab4539, type: 3}
+  ActiveBorder: {fileID: 21300000, guid: 3ee3fb79e94cd6546997d12b813ffe19, type: 3}
+  SelectedFlair: {fileID: 21300000, guid: e1f924fdf29080d45b22c95387fe775f, type: 3}
+  SelectedBackground: {fileID: 21300000, guid: 51f0bc041f6be314ba0e2564eec78597, type: 3}
+  SelectedSmallBackground: {fileID: 21300000, guid: a74889da11eca4240adbccf490f9b2d5, type: 3}
+  SelectedBorder: {fileID: 21300000, guid: 9f918c691f4db1b4c90cdcc9ebf19378, type: 3}
